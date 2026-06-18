@@ -1,0 +1,19 @@
+#podstawowe biblioteki do uczenia maszynowego i przetwarzania obrazu
+torch>=2.2.0
+torchvision>=0.17.0
+numpy>=1.24.0
+pillow>=10.2.0
+
+#eksport i uruchamianie modeli w formacie ONNX
+onnx>=1.15.0
+onnxscript
+onnxruntime>=1.17.0
+
+
+#backend i API
+fastapi>=0.110.0
+uvicorn>=0.28.0
+python-multipart>=0.0.9
+
+#testy
+scikit-learn
