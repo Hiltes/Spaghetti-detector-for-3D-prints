@@ -1,3 +1,5 @@
+![Prezentacja Gui w formacie .gif](Prezentacja.gif)
+
 # Spaghetti Detector for 3D Prints
 
 ## Opis projektu
