@@ -10,6 +10,9 @@ W przypadku nieudanego wydruku głowica drukarki kontynuuje pracę pomimo braku 
 
 Celem projektu było stworzenie systemu, który automatycznie rozpoznaje takie sytuacje na podstawie zdjęć.
 
+Wykorzystane dane:
+https://www.kaggle.com/datasets/justin900429/3d-printer-defected-dataset/data
+
 ---
 
 # Zakres zrealizowanych wymagań
